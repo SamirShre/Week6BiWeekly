@@ -12,7 +12,8 @@ namespace MyFirstApp
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Enter your name: ");
-           
+            string name = Console.ReadLine();
+            Console.WriteLine("You name is: "+name);
         }
     }
 }
