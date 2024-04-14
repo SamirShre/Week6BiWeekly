@@ -5,3 +5,10 @@ C:\Users\samir\Desktop\WebApp Group\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.c
 C:\Users\samir\Desktop\WebApp Group\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
 C:\Users\samir\Desktop\WebApp Group\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
 C:\Users\samir\Desktop\WebApp Group\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\Users\samir\Documents\GitHub\Week6BiWeekly\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Users\samir\Documents\GitHub\Week6BiWeekly\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Users\samir\Documents\GitHub\Week6BiWeekly\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\samir\Documents\GitHub\Week6BiWeekly\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+C:\Users\samir\Documents\GitHub\Week6BiWeekly\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\samir\Documents\GitHub\Week6BiWeekly\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\samir\Documents\GitHub\Week6BiWeekly\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
